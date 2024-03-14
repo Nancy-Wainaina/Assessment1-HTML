@@ -93,7 +93,7 @@ button{
     font-size: 250%;
     font-weight: bold;
 }
-@media screen and (max-width:1300px) and (min-width:250px){
+@media screen and (width:480px){
 
 
     #navbar{
