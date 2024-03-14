@@ -1,0 +1,201 @@
+#navbar{
+    display: flex;
+    gap: 10%;
+    margin-left: 30%;
+    
+}
+#fontnav{
+    font-weight: bolder;
+    font-size: large;
+    font-family: monospace;
+}
+#bemins{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 5%;
+    font-family: monospace;
+}
+#customer{
+    font-weight: bolder;
+    font-size: 350%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+#shop{
+    text-decoration: underline;
+    margin-left: 18%;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: large;
+
+}
+#secondp{
+    display: flex;
+}
+#pic1{
+    margin-left: 10%;
+    margin-top: 7%;
+}
+#adverts{
+    display: flex;
+    zoom: 50%;
+}
+#Tshirts{
+    width: 700px;
+    height: 700px;
+}
+#glasses{
+    height: 500px;
+    margin-top: 10%;
+}
+#fcaption{
+    font-size: 450%;
+    font-weight: bold;
+}
+#highlights{
+    display: flex;
+    margin-left: 24%;
+    gap: 10%;
+    font-size: 200%;
+}
+#sell{
+    color: gray;
+    font-weight: bold;
+    font-family: monospace;
+}
+#latest{
+    text-decoration: underline;
+    font-family: monospace;
+}
+#hat{
+    width: 400px;
+    height: 400px;
+}
+#display{
+    margin-left: 5%;
+}
+button{
+    background-color: purple;
+    color: aliceblue;
+    width: 15%;
+    padding: 20px;
+    margin-left: 30%;
+    border-radius: 16px;
+    font-weight: bolder;
+    font-size: 150%;
+}
+#designing{
+    display: flex;
+}
+#title{
+    margin-left: 18%;
+    margin-top: 10%;
+    font-size: 250%;
+    font-weight: bold;
+}
+@media screen and (max-width:1300px) and (min-width:250px){
+
+
+    #navbar{
+        display: flex;
+        gap: 10%;
+        margin-left: 30%;
+        
+    }
+    #fontnav{
+        font-weight: bolder;
+        font-size: large;
+        font-family: monospace;
+    }
+    #bemins{
+        font-size: xx-large;
+        font-weight: bolder;
+        margin-left: 5%;
+        font-family: monospace;
+    }
+    #customer{
+        font-weight: bolder;
+        font-size: 350%;
+        margin-left: 15%;
+        margin-top: 10%;
+    }
+    #shop{
+        text-decoration: underline;
+        margin-left: 18%;
+        font-weight: bold;
+        font-family: monospace;
+        font-size: large;
+    
+    }
+    #secondp{
+        display: flex;
+    }
+    #pic1{
+        margin-left: 10%;
+        margin-top: 7%;
+    }
+    #adverts{
+        display: flex;
+        zoom: 50%;
+    }
+    #Tshirts{
+        width: 700px;
+        height: 700px;
+    }
+    #glasses{
+        height: 500px;
+        margin-top: 10%;
+    }
+    #fcaption{
+        font-size: 450%;
+        font-weight: bold;
+    }
+    #highlights{
+        display: flex;
+        margin-left: 24%;
+        gap: 10%;
+        font-size: 200%;
+    }
+    #sell{
+        color: gray;
+        font-weight: bold;
+        font-family: monospace;
+    }
+    #latest{
+        text-decoration: underline;
+        font-family: monospace;
+    }
+    #hat{
+        width: 400px;
+        height: 400px;
+    }
+    #display{
+        margin-left: 5%;
+    }
+    button{
+        background-color: purple;
+        color: aliceblue;
+        width: 15%;
+        padding: 20px;
+        margin-left: 30%;
+        border-radius: 16px;
+        font-weight: bolder;
+        font-size: 150%;
+    }
+    #designing{
+        display: flex;
+    }
+    #title{
+        margin-left: 18%;
+        margin-top: 10%;
+        font-size: 250%;
+        font-weight: bold;
+    }
+    
+
+
+
+
+
+    
+}
